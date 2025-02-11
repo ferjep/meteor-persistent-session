@@ -30,7 +30,7 @@ to `persistent`:
 Installation
 ============
 ```
-meteor add itgenio:persistent-session
+meteor add ferjep:persistent-session
 ```
 **Note:** To use persistent-session, your project must have Session already installed. You can add Meteor's Session package by `meteor add session`.
 

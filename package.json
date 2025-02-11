@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itgenio/meteor-persistent-session.git"
+    "url": "git+https://github.com/ferjep/meteor-persistent-session.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itgenio/meteor-persistent-session/issues"
+    "url": "https://github.com/ferjep/meteor-persistent-session/issues"
   },
-  "homepage": "https://github.com/itgenio/meteor-persistent-session#readme",
+  "homepage": "https://github.com/ferjep/meteor-persistent-session#readme",
   "devDependencies": {
     "@types/meteor": "^2.7.1",
     "typescript": "~4.5.5"
